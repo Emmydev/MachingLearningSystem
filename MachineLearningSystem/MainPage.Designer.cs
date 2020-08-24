@@ -238,9 +238,9 @@
             // picExit
             // 
             this.picExit.Image = global::MachineLearningSystem.Properties.Resources.exit;
-            this.picExit.Location = new System.Drawing.Point(32, 452);
+            this.picExit.Location = new System.Drawing.Point(32, 455);
             this.picExit.Name = "picExit";
-            this.picExit.Size = new System.Drawing.Size(87, 70);
+            this.picExit.Size = new System.Drawing.Size(87, 67);
             this.picExit.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.picExit.TabIndex = 63;
             this.picExit.TabStop = false;
